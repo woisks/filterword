@@ -1,0 +1,17 @@
+{
+  "name": "woisks/filterword",
+  "description": "this filterword package ",
+  "authors": [
+    {
+      "name": "lifenglin",
+      "email": "woisks@126.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Woisks\\FilterWord\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "license": "MIT"
+}
